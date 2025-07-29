@@ -3,11 +3,11 @@
 # hello! my name is Carmen Rosa Cayllahua Chire
 ### In these I am studying the Telecommunications Engineering career, where I am doing my first practices with the Python programming language
 
-### I am studying at the National University of San Agustín de Arequipa, I am in the 2nd year, third semester.
+### I am studying at the National University of San Agustín de Arequipa, I am in the 5th year, first semester.
 
 ## A little bit about me:
 
-## I am studying at the National University of San Agustín de Arequipa, I am in the 2nd year, third semester.
+## I am studying at the National University of San Agustín de Arequipa, I like to adapt to new changes and trends regarding how to improve current technologies.
 
 ## Skills:
 
